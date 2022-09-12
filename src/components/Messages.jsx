@@ -1,8 +1,16 @@
 import React from 'react'
+import Message from './Meassage'
 
 const Messages = () => {
   return (
-    <div>Messages</div>
+    <div className="messages">
+    
+      <Message />
+      <Message />
+      <Message />
+      <Message />
+      <Message />
+  </div>
   )
 }
 
