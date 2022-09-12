@@ -4,7 +4,7 @@ const Meassage = () => {
   return (
     <div
     
-      className="message"
+      className="owner"
     >
       <div className="messageInfo">
         <img
